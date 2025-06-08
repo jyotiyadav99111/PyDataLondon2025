@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+geoip2
+python-whois
+streamlit
+langchain
+openai==0.28
+pydantic
+prometheus-client
